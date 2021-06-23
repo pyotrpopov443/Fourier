@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fourier</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="elephant">Elephant</string>
+</resources>

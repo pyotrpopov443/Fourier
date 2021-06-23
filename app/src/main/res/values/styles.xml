@@ -1,0 +1,66 @@
+<resources>
+
+    <!--attributes-->
+    <attr name="textColor"/>
+    <attr name="seekBarColor"/>
+    <attr name="canvasColor"/>
+    <attr name="epicycleColor"/>
+    <attr name="lineColor"/>
+    <attr name="shapeColor"/>
+    <attr name="resultColor"/>
+    <attr name="drawerColor"/>
+    <attr name="textTint"/>
+
+    <style name="DarkTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <!--basic-->
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/yellow</item>
+
+        <!--text-->
+        <item name="textColor">@color/white</item>
+        <item name="textTint">@color/black</item>
+
+        <!--seekBar-->
+        <item name="seekBarColor">@color/white</item>
+
+        <!--fourier-->
+        <item name="canvasColor">@color/black</item>
+        <item name="epicycleColor">@color/transparentDark</item>
+        <item name="lineColor">@color/white</item>
+        <item name="shapeColor">@color/yellow</item>
+        <item name="resultColor">@color/translucentDark</item>
+
+        <!--drawer-->
+        <item name="drawerColor">@color/darkGray</item>
+
+    </style>
+
+    <style name="LightTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <!--basic-->
+        <item name="colorPrimary">@color/seroburomaline</item>
+        <item name="colorPrimaryDark">@color/seroburomalineDark</item>
+        <item name="colorAccent">@color/pink</item>
+
+        <!--text-->
+        <item name="textColor">@color/black</item>
+        <item name="textTint">@color/white</item>
+
+        <!--seekBar-->
+        <item name="seekBarColor">@color/black</item>
+
+        <!--fourier-->
+        <item name="canvasColor">@color/white</item>
+        <item name="epicycleColor">@color/transparentLight</item>
+        <item name="lineColor">@color/black</item>
+        <item name="shapeColor">@color/pink</item>
+        <item name="resultColor">@color/translucentLight</item>
+
+        <!--drawer-->
+        <item name="drawerColor">@color/white</item>
+
+    </style>
+
+</resources>

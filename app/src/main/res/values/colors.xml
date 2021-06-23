@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--dark colors-->
+    <color name="colorPrimaryDark">#222222</color>
+    <color name="darkGray">#111111</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#D1D55B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparentDark">#32FFFFFF</color>
+    <color name="translucentDark">#64FFFFFF</color>
+
+    <!--light colors-->
+    <color name="seroburomaline">#735184</color>
+    <color name="seroburomalineDark">#593C67</color>
+    <color name="pink">#A05F83</color>
+    <color name="transparentLight">#32000000</color>
+    <color name="translucentLight">#64000000</color>
+
+</resources>
